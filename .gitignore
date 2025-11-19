@@ -1,0 +1,15 @@
+# Go build outputs
+bin/
+api
+*.out
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
